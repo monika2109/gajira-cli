@@ -16,6 +16,6 @@ jobs:
       with:
         version: 1.0.20
 
-    - name: Print version
+    - name: Print version of JIRA
       run: |
         jira version
